@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![ricardo-ave-gonzalez's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardo-ave-gonzalez&show_icons=true&theme=dark)
+
 <!--
 **ricardo-ave-gonzalez/ricardo-ave-gonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
